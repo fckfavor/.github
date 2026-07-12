@@ -22,21 +22,18 @@
 
 🇬🇧 **English** &nbsp;·&nbsp; 🇹🇷 [Türkçe için tıkla ↓](#-türkçe)
 
-I run a small trade business day to day — coding is what I do on the side,
-for fun and out of necessity. If I need a piece of infrastructure and don't
-want to pay a SaaS bill for it, I build it myself, usually over a weekend.
+I run a small trade business day to day. Code isn't my job — it's what's left
+when I chase an idea until it exists. I don't build tools, I build the
+version of independence where nobody's downtime, pricing change, or outage
+is my problem. If I can imagine it, I don't wait for a vendor to sell it to
+me — I stay up and build it.
 
 > *"Instead of paying a third party, I write it from scratch on the weekend."*
 
-**What I tinker with:**
-
-- 🔒 Self-hosted VPN cores — Xray-core / VLESS / XTLS-Vision / REALITY
-- 🌐 API gateways — LLM proxies, quota & key rotation
-- 📡 Low-level router/modem access — ADB, `goform`, Dropbear SSH
-- 🤖 Automation — trading bots, install scripts, one-liners
-
-I learn fast and don't mind picking up an unfamiliar stack when a project
-calls for it (went from zero to comfortable in Go in about a month).
+No fixed stack, no fixed domain — whatever the dream needs, I pick up fast
+enough to make it real (went from zero to comfortable in Go in about a
+month). VPN cores, API gateways, router internals, trading bots — different
+shapes of the same instinct: **build the thing yourself, own it completely.**
 
 ---
 
@@ -47,22 +44,19 @@ calls for it (went from zero to comfortable in Go in about a month).
 
 <br>
 
-Gündelik hayatta bir ticaret işi yürütüyorum — kod yazmak benim için yan iş,
-hem eğlence hem de ihtiyaçtan doğan bir şey. Bir altyapı parçasına ihtiyacım
-olduğunda ve bunun için bir SaaS'a para ödemek istemediğimde, genelde bir
-hafta sonu oturup kendim yazarım.
+Gündelik hayatta bir ticaret işi yürütüyorum. Kod benim işim değil — bir
+fikri, gerçek olana kadar kovaladığımda geriye kalan şey. Araç yapmıyorum;
+kimsenin kesintisinin, fiyat değişikliğinin, çöküşünün beni etkilemediği bir
+bağımsızlık hali kuruyorum. Aklımda canlanan bir şey varsa, bir satıcının
+bana satmasını beklemem — uyumam, kendim yaparım.
 
 > *"Üçüncü parti servise para ödemek yerine, weekend'de sıfırdan yazarım."*
 
-**Neyle uğraşıyorum:**
-
-- 🔒 Self-hosted VPN core'ları — Xray-core / VLESS / XTLS-Vision / REALITY
-- 🌐 API gateway'ler — LLM proxy'leri, kota & anahtar rotasyonu
-- 📡 Router/modem seviyesinde erişim — ADB, `goform`, Dropbear SSH
-- 🤖 Otomasyon — trading botları, kurulum script'leri, one-liner'lar
-
-Hızlı öğrenirim, tanımadığım bir stack olsa da proje gerektirdiğinde
-kısa sürede kavrarım (Go'da sıfırdan rahatlığa yaklaşık bir ayda geldim).
+Sabit bir stack'im, sabit bir alanım yok — hayal ne gerektiriyorsa onu
+gerçeğe döndürecek kadar hızlı öğrenirim (Go'da sıfırdan rahatlığa yaklaşık
+bir ayda geldim). VPN core'ları, API gateway'ler, router içleri, trading
+botları — hepsi aynı içgüdünün farklı biçimleri: **kendi işini kendin kur,
+tamamen sahiplen.**
 
 </details>
 
