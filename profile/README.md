@@ -62,6 +62,23 @@ tamamen sahiplen.**
 
 ---
 
+## 🗂️ Projects
+
+| Project | Stack | Status | |
+|---|---|---|---|
+| [ffdev-xray](https://github.com/fckfavor/ffdev-xray) — one-command self-hosted Xray VPN (VLESS/REALITY, Go panel, TG bot) | Go / Shell | 🟢 running | public |
+| [zlt-x28](https://github.com/fckfavor/zlt-x28) — ZLT X28 router toolkit: unlock, LuCI, Xray integration | Shell / OpenWrt | 🟢 stable | public |
+| [dev-setup](https://github.com/fckfavor/dev-setup) — one-shot WSL2 dev environment bootstrap for Windows | Shell | 🟢 stable | public |
+| ff-gateway — multi-provider LLM API gateway on Cloudflare Workers | TypeScript | 🟠 production | private |
+| trade-bot — Binance Futures trading automation | Node.js | 🟢 running | private |
+| anyllm — universal LLM client, Isolate-based stream engine | Flutter / Dart | 🟠 prd stage | private |
+| zte-panel-mc8520b — goform-based ZTE modem management panel | Go | ⚪ active dev | private |
+| remote-support — remote support over reverse SSH tunnels | Python | 🟢 stable | private |
+
+<sub>Most repos are private — built for need, not for show. Full list & live status: [ffdev.online](https://ffdev.online)</sub>
+
+---
+
 <div align="center">
 
 📫 [contact@ffdev.online](mailto:contact@ffdev.online) &nbsp;·&nbsp; ✈️ [Telegram](https://t.me/fckfavor) &nbsp;·&nbsp; 🌐 [ffdev.online](https://ffdev.online)
